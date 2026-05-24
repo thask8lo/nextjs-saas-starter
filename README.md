@@ -18,4 +18,4 @@ The following modules are available in the **full package only**:
 | Stripe cancel subscription API | Stub | ✅ |
 | SQL migration script | — | ✅ |
 
-👉 **Get the full package on [Gumroad](https://7538195787226.gumroad.com/l/cvdfl)**
+👉 **Get the full package on [Gumroad](https://7538195787226.gumroad.com/l/cvdfl)**# Next.js SaaS Starter
