@@ -1,5 +1,6 @@
 import { createClient } from "@/lib/supabase/server"
 import { BillingCard } from "@/components/dashboard/billing-card"
+export const dynamic = 'force-dynamic'
 
 export default async function BillingPage() {
   const supabase = await createClient()
